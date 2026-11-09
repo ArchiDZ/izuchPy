@@ -14,3 +14,4 @@ def ex_2_2(num_a):
 
 def ex_2_3(num_a, num_x):
     print('Вариант А')
+    print('Вариант Б')
